@@ -1,0 +1,9 @@
+# requirements.txt
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+pypandoc
+python-dotenv
+chromadb  
+langchain-ollama
